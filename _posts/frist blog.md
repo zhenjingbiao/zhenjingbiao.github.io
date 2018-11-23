@@ -1,9 +1,12 @@
 ---
-layout: post
-title: frist blog
-categories: [常识积累, 人生杂谈]
-description: first
-keywords: test
+layout: categories
+title: Categories
+description: 哈哈，你找到了我的文章基因库
+keywords: 分类
+comments: false
+menu: 分类
+permalink: /categories/
 ---
 
-this is a test.
+比较覅偶第八何炅的环境比哦啊都会比哦啊代表是DVD
+<!-- /section.content -->
